@@ -1,16 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manish
 ==============================================================================================================================
 
-Competitive Programming Enthusiast
-----------------------------------
-
 I've been learning programming for 2 years, I started with Python but then switched to C++ and has found my passion in algorithms and competitive programming.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [msn07082005@gmail.com](mailto:msn07082005@gmail.com)
 * 🧠  I'm learning Data Structures And Algorithm
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I am IRON MAN!! Let the whole world know!!
 
 <a href="https://www.github.com/Manish-785" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Manish-785?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
