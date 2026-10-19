@@ -1,28 +1,34 @@
-Hi 👋 My name is Manish
-=======================
+## Hi, I'm Manish
 
-Undergrad at IIT Bombay
---------------------
+Final-year B.Tech in Chemical Engineering at **IIT Bombay** (minor in AI and Data Science, CPI 9.74/10), graduating May 2027.
 
-* ✉️  You can contact me at [msn07082005@gmail.com](mailto:msn07082005@gmail.com)
-* 🧠  I'm learning Natural Language Processing
+I build ML systems for problems where the answer has to be **correct, not just plausible**: simulating chemical reactions, pricing derivatives and auditing quantitative research. Most of my work comes down to careful evaluation: fixed protocols, held-out sets, matched controls and honest error analysis.
 
-### Skills
+### What I'm working on
 
+- **ML-accelerated reaction-path search:** a machine-learned (MACE) Hessian preconditioner for nudged elastic band optimisation. On a pre-registered 60-system benchmark with a sealed held-out set, it converges on 33/60 systems vs 28/60 for FIRE, using a median 0.18× the force evaluations. *(research, IIT Bombay)*
+- **Quant Auditor:** a small fine-tuned LLM agent (Qwen3-4B, SFT then GRPO) that audits trading backtests by running diagnostic experiments, catching look-ahead bias, missing costs and same-bar fills. *(in progress)*
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+### Selected projects
 
+| Project | What it is |
+|---|---|
+| [**Spatiotemporal GNN for sales forecasting**](https://github.com/Manish-785/sales-demand-forecasting) | First-author paper ([arXiv:2511.19267](https://arxiv.org/abs/2511.19267)). Joint forecasting across 45 stores with a learned store graph; lowest overall error and most consistent across stores vs ARIMA, LSTM and XGBoost. |
+| [**Heston pricing and SPX calibration**](https://github.com/Manish-785/IE624-Heston-Pricing-using-Monte-Carlo) | Heston Monte Carlo pricer (Euler and Andersen QE) with implied-vol inversion and a semi-analytic check, calibrated to live SPX option chains. |
+| [**Option pricing and delta hedging**](https://github.com/Manish-785/option_pricing_project) | Black–Scholes, binomial and Monte Carlo pricing of 36,900+ listed options; delta-hedging back-tests. |
+| **MolGenX** ([backend](https://github.com/https-kanika/MolGenX-backend), [frontend](https://github.com/adityapatil2310/MolGenX-frontend)) | Protein-conditioned molecule generator (550K+ BindingDB samples, 100% validity). 1st of 64,000+ in the Google Developer Solution Challenge. Team project. |
+| [**KELP**](https://github.com/Manish-785/KELP) | Multi-agent LLM pipeline that turns company documents into anonymised, cited pitch decks. |
 
-### Socials
+### Experience
 
-<p align="left"> <a href="https://www.github.com/Manish-785" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_manish.0785" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/manish-singh785" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+- **Morgan Stanley:** Summer Associate, Asia FX Structuring (2026). Built a TARF pricing engine validated to within 1bp on 40+ benchmark trades, and an FX volatility screener.
+- **iWealth:** Quant Developer (2025). Earnings-call transcription (Whisper) and filings-summary pipelines for the investment team.
+- **Dreamplan:** Full Stack Developer (2024–25), wealth-advice fintech in Denmark.
 
-### Badges
+### Tools
 
-<b>My GitHub Stats</b>
+`Python` · `PyTorch` · `Hugging Face` · `QLoRA / Unsloth` · `vLLM` · `NumPy / SciPy / pandas` · `ASE` · `MACE` · `VASP` · `C++` · `SQL` · `Excel` · `Bloomberg (DLIB)`
 
-<a href="http://www.github.com/Manish-785"><img src="https://github-readme-stats.vercel.app/api?username=Manish-785&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Manish-785's GitHub stats" /></a>
+### Contact
 
-<a href="https://github.com/Manish-785" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-785&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[Email](mailto:msn07082005@gmail.com) · [LinkedIn](https://www.linkedin.com/in/manish-singh785) · [arXiv](https://arxiv.org/abs/2511.19267)
